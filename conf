@@ -1,0 +1,11 @@
+DELAY=1
+THRESHOLD=15
+LOG_MESSAGE_FORMAT=
+LOG_TIME_FORMAT=
+ROOT_LOG=/home/xavierfmw/Documents/GitHub/Cyberus/logs/root
+CHECKER_LOG=/home/xavierfmw/Documents/GitHub/Cyberus/logs/checker
+EXECUTOR_LOG=/home/xavierfmw/Documents/GitHub/Cyberus/logs/executor
+CONTINGENCY_SCRIPTS=/home/xavierfmw/Documents/GitHub/Cyberus/scripts/encrypt.py,/home/xavierfmw/Documents/GitHub/Cyberus/scripts/gmail.py
+CLOSE_AFTER_CONTINGENCY=true
+BANNED_APPS=dolphin,firefox
+BANNED_APPS_WEIGHT=10

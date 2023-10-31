@@ -1,0 +1,11 @@
+
+This is a prototype of the Cyberus contingency software made for the 2023 Conrad Challenge. THIS PROJECT IS A
+PROOF-OF-CONCEPT AND SHOULD NOT BE USED FOR SECURITY PURPOSES! This project is licensed under the MIT Open Source
+License.
+
+Copyright (c) 2023 Xavier Mercerweiss
+
+Many thanks are given to the authors of the bitstring (https://github.com/scott-griffiths/bitstring), psutil
+(https://github.com/giampaolo/psutil), and uptime (https://github.com/Cairnarvon/uptime) modules, which were integral to
+the development of this project. THE AUTHORS OF THESE MODULES ARE NOT AWARE OF AND DO NOT CONDONE THIS PROJECT, however
+appropriate licenses and copyright notices are present within all relevant source code files.
